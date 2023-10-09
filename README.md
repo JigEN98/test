@@ -42,6 +42,7 @@ If you choose "dos" mode:
 3. Set the value of packets to send between "0" and "1".
 4. Choose how many packets you want to send (you can input a number or "loop" for continuous sending).
 5. Optionally, add one or more triggers by checking the "Add triggers" box. Triggers allow you to select a PLC (ip:port), a coil, a condition, and a value. For example, you can start the attack only if c1 of PLC1 is ON.
+6. Click "Start attack"
 
 ### Chattering Attack Mode
 
@@ -53,9 +54,9 @@ If you choose "chattering" mode:
 4. Select the mode of the chattering attack (percentage or time slow).
 5. Insert the value corresponding to the selected mode.
 6. Optionally, add one or more triggers by checking the "Add triggers" box. Triggers allow you to select a PLC (ip:port), a coil, a condition, and a value. For example, you can start the attack only if c1 of PLC1 is ON.
+7. Click "Start attack"
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-```
-```
+
